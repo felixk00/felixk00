@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In the DATABASE COURSE I learned:
-
-- how to built complex queries with sql and programming languages (functions)
-
-What I liked about the DATABASE COURSE:
-- workshop
-- project group work
--
 
